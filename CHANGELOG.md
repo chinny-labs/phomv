@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.1] - 2026-10-11
+
 ### Changed
 - The project moved from the `phomv` GitHub org to `chinny-labs`. The Go module
   path is now `github.com/chinny-labs/phomv`, the Homebrew tap is
