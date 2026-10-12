@@ -46,3 +46,5 @@ internal/
 **Unknown dates**: files where neither EXIF nor mtime is readable go to `<dest>/Unknown/<original-filename>` instead of failing the run.
 
 **Module path:** `github.com/chinny-labs/phomv`
+
+**Docs site:** `docs/` is a Jekyll site (GitHub Pages, source `main` `/docs`) served at https://chinny-labs.github.io/phomv/. Pages are `index.md`, `install.md`, `usage.md`, `hierarchy.md`; layout in `docs/_layouts/`. The brand images in `docs/` are shared with the README. Change docs in the same PR as the code.

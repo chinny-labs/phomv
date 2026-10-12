@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - The project moved from the `phomv` GitHub org to `chinny-labs`. The Go module
   path is now `github.com/chinny-labs/phomv`, the Homebrew tap is
   `chinny-labs/tap` (`brew untap phomv/tap && brew install chinny-labs/tap/phomv`)
-  and the docs moved to <https://chinny-labs.github.io/phomv-docs/>. The winget
+  and the docs moved to <https://chinny-labs.github.io/phomv/>. The winget
   package ID (`phomv.phomv`) is unchanged.
 
 ## [0.2.0] - 2026-09-26

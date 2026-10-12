@@ -6,6 +6,8 @@
 
 [![CI](https://github.com/chinny-labs/phomv/actions/workflows/ci.yml/badge.svg)](https://github.com/chinny-labs/phomv/actions/workflows/ci.yml)
 
+**Docs: <https://chinny-labs.github.io/phomv/>**
+
 `phomv` (photo move) is a high-performance CLI utility written in Go that
 organizes photo directories into a `YYYY/YYYY_MM/YYYY_MM_DD` hierarchy based on EXIF
 metadata. It is designed to be fast, safe, and decoupled enough that the same
