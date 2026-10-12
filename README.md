@@ -4,7 +4,7 @@
 
 # phomv
 
-[![CI](https://github.com/phomv/phomv/actions/workflows/ci.yml/badge.svg)](https://github.com/phomv/phomv/actions/workflows/ci.yml)
+[![CI](https://github.com/chinny-labs/phomv/actions/workflows/ci.yml/badge.svg)](https://github.com/chinny-labs/phomv/actions/workflows/ci.yml)
 
 `phomv` (photo move) is a high-performance CLI utility written in Go that
 organizes photo directories into a `YYYY/YYYY_MM/YYYY_MM_DD` hierarchy based on EXIF
@@ -41,7 +41,7 @@ core engine can later back a Wails or Fyne GUI.
 ### Homebrew (macOS / Linux)
 
 ```sh
-brew install phomv/tap/phomv
+brew install chinny-labs/tap/phomv
 ```
 
 ### Windows (winget)
@@ -52,12 +52,12 @@ winget install phomv.phomv
 
 ### Pre-built binaries
 
-Grab the latest release for your platform from the [releases page](https://github.com/phomv/phomv/releases).
+Grab the latest release for your platform from the [releases page](https://github.com/chinny-labs/phomv/releases).
 
 ### From source
 
 ```sh
-go install github.com/phomv/phomv/cmd/phomv@latest
+go install github.com/chinny-labs/phomv/cmd/phomv@latest
 ```
 
 Or build locally:

@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phomv/phomv/internal/filesystem"
+	"github.com/chinny-labs/phomv/internal/filesystem"
 )
 
 // livePhotoTree writes IMG_1.HEIC with its Live Photo .MOV and .AAE edits,

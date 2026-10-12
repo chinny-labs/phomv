@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phomv/phomv/internal/filesystem"
+	"github.com/chinny-labs/phomv/internal/filesystem"
 )
 
 func TestFilterSkip(t *testing.T) {

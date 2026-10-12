@@ -4,7 +4,7 @@
 
 Please **do not** open a public GitHub issue for security vulnerabilities.
 
-Report vulnerabilities privately via [GitHub Security Advisories](https://github.com/phomv/phomv/security/advisories/new). You will receive a response within 7 days.
+Report vulnerabilities privately via [GitHub Security Advisories](https://github.com/chinny-labs/phomv/security/advisories/new). You will receive a response within 7 days.
 
 ## Supported versions
 
