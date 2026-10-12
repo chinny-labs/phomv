@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phomv/phomv/internal/filesystem"
-	"github.com/phomv/phomv/internal/testutil"
+	"github.com/chinny-labs/phomv/internal/filesystem"
+	"github.com/chinny-labs/phomv/internal/testutil"
 )
 
 // readTree maps every file under root (relative, slash-separated) to its content.

@@ -34,7 +34,7 @@ Keep PRs focused — one logical change per PR makes review faster.
 ## Good first issues
 
 Look for issues labelled
-[`good first issue`](https://github.com/phomv/phomv/labels/good%20first%20issue).
+[`good first issue`](https://github.com/chinny-labs/phomv/labels/good%20first%20issue).
 
 ## Reporting security issues
 

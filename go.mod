@@ -1,4 +1,4 @@
-module github.com/phomv/phomv
+module github.com/chinny-labs/phomv
 
 go 1.24.7
 

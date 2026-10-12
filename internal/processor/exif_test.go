@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phomv/phomv/internal/testutil"
+	"github.com/chinny-labs/phomv/internal/testutil"
 )
 
 func TestExtractTime(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phomv/phomv/internal/testutil"
+	"github.com/chinny-labs/phomv/internal/testutil"
 )
 
 func box(typ string, body ...[]byte) []byte {

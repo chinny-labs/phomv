@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/phomv/phomv/internal/worker"
+	"github.com/chinny-labs/phomv/internal/worker"
 )
 
 func TestProgressKeepsCounterOffLogLines(t *testing.T) {

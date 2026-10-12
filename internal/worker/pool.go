@@ -15,8 +15,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/phomv/phomv/internal/filesystem"
-	"github.com/phomv/phomv/internal/processor"
+	"github.com/chinny-labs/phomv/internal/filesystem"
+	"github.com/chinny-labs/phomv/internal/processor"
 )
 
 // Job is a single file slated for processing.

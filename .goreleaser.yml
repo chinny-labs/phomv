@@ -43,11 +43,11 @@ checksum:
 brews:
   - name: phomv
     repository:
-      owner: phomv
+      owner: chinny-labs
       name: homebrew-tap
       token: "{{ .Env.HOMEBREW_TAP_TOKEN }}"
     directory: Formula
-    homepage: "https://github.com/phomv/phomv"
+    homepage: "https://github.com/chinny-labs/phomv"
     description: "High-performance CLI that organizes photos into a YYYY/YYYY_MM/YYYY_MM_DD hierarchy from EXIF metadata"
     license: "MIT"
     install: |
@@ -62,14 +62,14 @@ brews:
 winget:
   - name: phomv
     publisher: phomv
-    publisher_url: "https://github.com/phomv"
-    homepage: "https://github.com/phomv/phomv"
+    publisher_url: "https://github.com/chinny-labs"
+    homepage: "https://github.com/chinny-labs/phomv"
     short_description: "Organizes photos into a YYYY/YYYY_MM/YYYY_MM_DD hierarchy from EXIF metadata"
     license: MIT
-    license_url: "https://github.com/phomv/phomv/blob/main/LICENSE"
+    license_url: "https://github.com/chinny-labs/phomv/blob/main/LICENSE"
     package_identifier: phomv.phomv
     repository:
-      owner: phomv
+      owner: chinny-labs
       name: winget-pkgs
       branch: "phomv-{{.Version}}"
       token: "{{ .Env.WINGET_PKGS_TOKEN }}"
