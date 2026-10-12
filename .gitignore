@@ -7,3 +7,12 @@
 .DS_Store
 .idea/
 .vscode/
+
+# Docs site (Jekyll)
+docs/_site/
+docs/.sass-cache/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/Gemfile.lock
+docs/vendor/
+docs/.bundle/
